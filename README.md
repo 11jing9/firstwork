@@ -24,12 +24,14 @@
 
 ## python代码：
 
-```
+```python
 x = 1
 y = 2
 k = x + y
 print(k)
 ```
+
+`print('new world!')`
 
 ### 信息素养成绩表：
 
